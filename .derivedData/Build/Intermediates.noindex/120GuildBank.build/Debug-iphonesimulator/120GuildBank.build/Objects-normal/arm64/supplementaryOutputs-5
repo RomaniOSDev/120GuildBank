@@ -1,0 +1,23 @@
+{
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Presentation/SwiftUI/ViewModels/GuildBankViewModel.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GuildBankViewModel.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GuildBankViewModel.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GuildBankViewModel.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GuildBankViewModel.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GuildBankViewModel.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Presentation/SwiftUI/Views/Dashboard/DashboardView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/DashboardView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/DashboardView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/DashboardView.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/DashboardView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/DashboardView.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Presentation/SwiftUI/Views/Goals/AddGoalView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/AddGoalView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/AddGoalView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/AddGoalView.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/AddGoalView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/AddGoalView.swiftdeps"
+  }
+}

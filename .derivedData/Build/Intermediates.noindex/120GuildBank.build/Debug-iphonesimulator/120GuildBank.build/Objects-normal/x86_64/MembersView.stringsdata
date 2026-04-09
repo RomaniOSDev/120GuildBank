@@ -1,0 +1,48 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Presentation/SwiftUI/Views/Members/MembersView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Members",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Deactivate",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Activate",
+        "location": {
+          "startingColumn": 80,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add member",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 39
+        }
+      }
+    ]
+  },
+  "version": 1
+}

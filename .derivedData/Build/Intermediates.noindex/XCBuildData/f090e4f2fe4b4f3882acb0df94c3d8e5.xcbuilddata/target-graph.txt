@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target '120GuildBank' in project '120GuildBank' (no dependencies)

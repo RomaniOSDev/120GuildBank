@@ -3,33 +3,81 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 60;
 	objects = {
+
+/* Begin PBXBuildFile section */
+		74EA7A252F87FE3B00294DCD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74EA7A1B2F87FE3B00294DCD /* Assets.xcassets */; };
+		74EA7A272F87FE3B00294DCD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74EA7A1F2F87FE3B00294DCD /* LaunchScreen.storyboard */; };
+		74EA7A282F87FE3B00294DCD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74EA7A212F87FE3B00294DCD /* Main.storyboard */; };
+		74EA7A292F87FE3B00294DCD /* GuildModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA79EE2F87FE3B00294DCD /* GuildModels.swift */; };
+		74EA7A2A2F87FE3B00294DCD /* GoalCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA79F12F87FE3B00294DCD /* GoalCard.swift */; };
+		74EA7A2B2F87FE3B00294DCD /* MemberCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA79F22F87FE3B00294DCD /* MemberCard.swift */; };
+		74EA7A2C2F87FE3B00294DCD /* ResourceCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA79F32F87FE3B00294DCD /* ResourceCard.swift */; };
+		74EA7A2D2F87FE3B00294DCD /* StatCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA79F42F87FE3B00294DCD /* StatCard.swift */; };
+		74EA7A2E2F87FE3B00294DCD /* TransactionRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA79F52F87FE3B00294DCD /* TransactionRow.swift */; };
+		74EA7A2F2F87FE3B00294DCD /* GuildBankViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA79F72F87FE3B00294DCD /* GuildBankViewModel.swift */; };
+		74EA7A302F87FE3B00294DCD /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA79F92F87FE3B00294DCD /* DashboardView.swift */; };
+		74EA7A312F87FE3B00294DCD /* AddGoalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA79FB2F87FE3B00294DCD /* AddGoalView.swift */; };
+		74EA7A322F87FE3B00294DCD /* GoalsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA79FC2F87FE3B00294DCD /* GoalsView.swift */; };
+		74EA7A332F87FE3B00294DCD /* AddMemberView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA79FE2F87FE3B00294DCD /* AddMemberView.swift */; };
+		74EA7A342F87FE3B00294DCD /* MembersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA79FF2F87FE3B00294DCD /* MembersView.swift */; };
+		74EA7A352F87FE3B00294DCD /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A012F87FE3B00294DCD /* OnboardingView.swift */; };
+		74EA7A362F87FE3B00294DCD /* AddResourceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A032F87FE3B00294DCD /* AddResourceView.swift */; };
+		74EA7A372F87FE3B00294DCD /* ResourcesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A042F87FE3B00294DCD /* ResourcesView.swift */; };
+		74EA7A382F87FE3B00294DCD /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A062F87FE3B00294DCD /* SettingsView.swift */; };
+		74EA7A392F87FE3B00294DCD /* StatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A082F87FE3B00294DCD /* StatsView.swift */; };
+		74EA7A3A2F87FE3B00294DCD /* AddTransactionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A0A2F87FE3B00294DCD /* AddTransactionView.swift */; };
+		74EA7A3B2F87FE3B00294DCD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A0C2F87FE3B00294DCD /* ContentView.swift */; };
+		74EA7A3C2F87FE3B00294DCD /* UserDefaultsStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A112F87FE3B00294DCD /* UserDefaultsStore.swift */; };
+		74EA7A3D2F87FE3B00294DCD /* Color+Guild.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A132F87FE3B00294DCD /* Color+Guild.swift */; };
+		74EA7A3E2F87FE3B00294DCD /* GuildDesignSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A142F87FE3B00294DCD /* GuildDesignSystem.swift */; };
+		74EA7A3F2F87FE3B00294DCD /* DateFormatters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A162F87FE3B00294DCD /* DateFormatters.swift */; };
+		74EA7A402F87FE3B00294DCD /* ExternalLinks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A172F87FE3B00294DCD /* ExternalLinks.swift */; };
+		74EA7A412F87FE3B00294DCD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A1A2F87FE3B00294DCD /* AppDelegate.swift */; };
+		74EA7A422F87FE3B00294DCD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A1C2F87FE3B00294DCD /* ContentView.swift */; };
+		74EA7A432F87FE3B00294DCD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A222F87FE3B00294DCD /* SceneDelegate.swift */; };
+		74EA7A442F87FE3B00294DCD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EA7A232F87FE3B00294DCD /* ViewController.swift */; };
+/* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		746A21662F8632610076A047 /* 120GuildBank.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 120GuildBank.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		74EA79EE2F87FE3B00294DCD /* GuildModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuildModels.swift; sourceTree = "<group>"; };
+		74EA79F12F87FE3B00294DCD /* GoalCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalCard.swift; sourceTree = "<group>"; };
+		74EA79F22F87FE3B00294DCD /* MemberCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemberCard.swift; sourceTree = "<group>"; };
+		74EA79F32F87FE3B00294DCD /* ResourceCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourceCard.swift; sourceTree = "<group>"; };
+		74EA79F42F87FE3B00294DCD /* StatCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatCard.swift; sourceTree = "<group>"; };
+		74EA79F52F87FE3B00294DCD /* TransactionRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionRow.swift; sourceTree = "<group>"; };
+		74EA79F72F87FE3B00294DCD /* GuildBankViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuildBankViewModel.swift; sourceTree = "<group>"; };
+		74EA79F92F87FE3B00294DCD /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
+		74EA79FB2F87FE3B00294DCD /* AddGoalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddGoalView.swift; sourceTree = "<group>"; };
+		74EA79FC2F87FE3B00294DCD /* GoalsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalsView.swift; sourceTree = "<group>"; };
+		74EA79FE2F87FE3B00294DCD /* AddMemberView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddMemberView.swift; sourceTree = "<group>"; };
+		74EA79FF2F87FE3B00294DCD /* MembersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MembersView.swift; sourceTree = "<group>"; };
+		74EA7A012F87FE3B00294DCD /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		74EA7A032F87FE3B00294DCD /* AddResourceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddResourceView.swift; sourceTree = "<group>"; };
+		74EA7A042F87FE3B00294DCD /* ResourcesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourcesView.swift; sourceTree = "<group>"; };
+		74EA7A062F87FE3B00294DCD /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		74EA7A082F87FE3B00294DCD /* StatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsView.swift; sourceTree = "<group>"; };
+		74EA7A0A2F87FE3B00294DCD /* AddTransactionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTransactionView.swift; sourceTree = "<group>"; };
+		74EA7A0C2F87FE3B00294DCD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		74EA7A112F87FE3B00294DCD /* UserDefaultsStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsStore.swift; sourceTree = "<group>"; };
+		74EA7A132F87FE3B00294DCD /* Color+Guild.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Guild.swift"; sourceTree = "<group>"; };
+		74EA7A142F87FE3B00294DCD /* GuildDesignSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuildDesignSystem.swift; sourceTree = "<group>"; };
+		74EA7A162F87FE3B00294DCD /* DateFormatters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormatters.swift; sourceTree = "<group>"; };
+		74EA7A172F87FE3B00294DCD /* ExternalLinks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExternalLinks.swift; sourceTree = "<group>"; };
+		74EA7A1A2F87FE3B00294DCD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		74EA7A1B2F87FE3B00294DCD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		74EA7A1C2F87FE3B00294DCD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		74EA7A1D2F87FE3B00294DCD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		74EA7A1E2F87FE3B00294DCD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		74EA7A202F87FE3B00294DCD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		74EA7A222F87FE3B00294DCD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		74EA7A232F87FE3B00294DCD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EC521EE6259D698170C2A414 /* Pods_120GuildBank.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_120GuildBank.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		ECAA8C5469ED8F943CDFC0E2 /* Pods-120GuildBank.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-120GuildBank.release.xcconfig"; path = "Target Support Files/Pods-120GuildBank/Pods-120GuildBank.release.xcconfig"; sourceTree = "<group>"; };
+		F082C07ABFD36DCABFF19B4A /* Pods-120GuildBank.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-120GuildBank.debug.xcconfig"; path = "Target Support Files/Pods-120GuildBank/Pods-120GuildBank.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		746A21782F8632620076A047 /* Exceptions for "120GuildBank" folder in "120GuildBank" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 746A21652F8632610076A047 /* 120GuildBank */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		746A21682F8632610076A047 /* 120GuildBank */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				746A21782F8632620076A047 /* Exceptions for "120GuildBank" folder in "120GuildBank" target */,
-			);
-			path = 120GuildBank;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		746A21632F8632610076A047 /* Frameworks */ = {
@@ -42,11 +90,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1B58B3BD7E2CEF2029CA36A5 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F082C07ABFD36DCABFF19B4A /* Pods-120GuildBank.debug.xcconfig */,
+				ECAA8C5469ED8F943CDFC0E2 /* Pods-120GuildBank.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		33AEA242A3368FF85D1CBCAB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EC521EE6259D698170C2A414 /* Pods_120GuildBank.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		746A215D2F8632610076A047 = {
 			isa = PBXGroup;
 			children = (
-				746A21682F8632610076A047 /* 120GuildBank */,
+				74EA7A242F87FE3B00294DCD /* 120GuildBank */,
 				746A21672F8632610076A047 /* Products */,
+				1B58B3BD7E2CEF2029CA36A5 /* Pods */,
+				33AEA242A3368FF85D1CBCAB /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,6 +125,213 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		74EA79ED2F87FE3B00294DCD /* App */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		74EA79EF2F87FE3B00294DCD /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				74EA79EE2F87FE3B00294DCD /* GuildModels.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		74EA79F02F87FE3B00294DCD /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				74EA79EF2F87FE3B00294DCD /* Models */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		74EA79F62F87FE3B00294DCD /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				74EA79F12F87FE3B00294DCD /* GoalCard.swift */,
+				74EA79F22F87FE3B00294DCD /* MemberCard.swift */,
+				74EA79F32F87FE3B00294DCD /* ResourceCard.swift */,
+				74EA79F42F87FE3B00294DCD /* StatCard.swift */,
+				74EA79F52F87FE3B00294DCD /* TransactionRow.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		74EA79F82F87FE3B00294DCD /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				74EA79F72F87FE3B00294DCD /* GuildBankViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		74EA79FA2F87FE3B00294DCD /* Dashboard */ = {
+			isa = PBXGroup;
+			children = (
+				74EA79F92F87FE3B00294DCD /* DashboardView.swift */,
+			);
+			path = Dashboard;
+			sourceTree = "<group>";
+		};
+		74EA79FD2F87FE3B00294DCD /* Goals */ = {
+			isa = PBXGroup;
+			children = (
+				74EA79FB2F87FE3B00294DCD /* AddGoalView.swift */,
+				74EA79FC2F87FE3B00294DCD /* GoalsView.swift */,
+			);
+			path = Goals;
+			sourceTree = "<group>";
+		};
+		74EA7A002F87FE3B00294DCD /* Members */ = {
+			isa = PBXGroup;
+			children = (
+				74EA79FE2F87FE3B00294DCD /* AddMemberView.swift */,
+				74EA79FF2F87FE3B00294DCD /* MembersView.swift */,
+			);
+			path = Members;
+			sourceTree = "<group>";
+		};
+		74EA7A022F87FE3B00294DCD /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				74EA7A012F87FE3B00294DCD /* OnboardingView.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		74EA7A052F87FE3B00294DCD /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				74EA7A032F87FE3B00294DCD /* AddResourceView.swift */,
+				74EA7A042F87FE3B00294DCD /* ResourcesView.swift */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		74EA7A072F87FE3B00294DCD /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				74EA7A062F87FE3B00294DCD /* SettingsView.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		74EA7A092F87FE3B00294DCD /* Stats */ = {
+			isa = PBXGroup;
+			children = (
+				74EA7A082F87FE3B00294DCD /* StatsView.swift */,
+			);
+			path = Stats;
+			sourceTree = "<group>";
+		};
+		74EA7A0B2F87FE3B00294DCD /* Transactions */ = {
+			isa = PBXGroup;
+			children = (
+				74EA7A0A2F87FE3B00294DCD /* AddTransactionView.swift */,
+			);
+			path = Transactions;
+			sourceTree = "<group>";
+		};
+		74EA7A0D2F87FE3B00294DCD /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				74EA79FA2F87FE3B00294DCD /* Dashboard */,
+				74EA79FD2F87FE3B00294DCD /* Goals */,
+				74EA7A002F87FE3B00294DCD /* Members */,
+				74EA7A022F87FE3B00294DCD /* Onboarding */,
+				74EA7A052F87FE3B00294DCD /* Resources */,
+				74EA7A072F87FE3B00294DCD /* Settings */,
+				74EA7A092F87FE3B00294DCD /* Stats */,
+				74EA7A0B2F87FE3B00294DCD /* Transactions */,
+				74EA7A0C2F87FE3B00294DCD /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		74EA7A0E2F87FE3B00294DCD /* SwiftUI */ = {
+			isa = PBXGroup;
+			children = (
+				74EA79F62F87FE3B00294DCD /* Components */,
+				74EA79F82F87FE3B00294DCD /* ViewModels */,
+				74EA7A0D2F87FE3B00294DCD /* Views */,
+			);
+			path = SwiftUI;
+			sourceTree = "<group>";
+		};
+		74EA7A0F2F87FE3B00294DCD /* UIKit */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = UIKit;
+			sourceTree = "<group>";
+		};
+		74EA7A102F87FE3B00294DCD /* Presentation */ = {
+			isa = PBXGroup;
+			children = (
+				74EA7A0E2F87FE3B00294DCD /* SwiftUI */,
+				74EA7A0F2F87FE3B00294DCD /* UIKit */,
+			);
+			path = Presentation;
+			sourceTree = "<group>";
+		};
+		74EA7A122F87FE3B00294DCD /* Persistence */ = {
+			isa = PBXGroup;
+			children = (
+				74EA7A112F87FE3B00294DCD /* UserDefaultsStore.swift */,
+			);
+			path = Persistence;
+			sourceTree = "<group>";
+		};
+		74EA7A152F87FE3B00294DCD /* Theme */ = {
+			isa = PBXGroup;
+			children = (
+				74EA7A132F87FE3B00294DCD /* Color+Guild.swift */,
+				74EA7A142F87FE3B00294DCD /* GuildDesignSystem.swift */,
+			);
+			path = Theme;
+			sourceTree = "<group>";
+		};
+		74EA7A182F87FE3B00294DCD /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				74EA7A162F87FE3B00294DCD /* DateFormatters.swift */,
+				74EA7A172F87FE3B00294DCD /* ExternalLinks.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		74EA7A192F87FE3B00294DCD /* Supporting */ = {
+			isa = PBXGroup;
+			children = (
+				74EA7A122F87FE3B00294DCD /* Persistence */,
+				74EA7A152F87FE3B00294DCD /* Theme */,
+				74EA7A182F87FE3B00294DCD /* Utils */,
+			);
+			path = Supporting;
+			sourceTree = "<group>";
+		};
+		74EA7A242F87FE3B00294DCD /* 120GuildBank */ = {
+			isa = PBXGroup;
+			children = (
+				74EA79ED2F87FE3B00294DCD /* App */,
+				74EA79F02F87FE3B00294DCD /* Domain */,
+				74EA7A102F87FE3B00294DCD /* Presentation */,
+				74EA7A192F87FE3B00294DCD /* Supporting */,
+				74EA7A1A2F87FE3B00294DCD /* AppDelegate.swift */,
+				74EA7A1B2F87FE3B00294DCD /* Assets.xcassets */,
+				74EA7A1C2F87FE3B00294DCD /* ContentView.swift */,
+				74EA7A1D2F87FE3B00294DCD /* Info.plist */,
+				74EA7A1F2F87FE3B00294DCD /* LaunchScreen.storyboard */,
+				74EA7A212F87FE3B00294DCD /* Main.storyboard */,
+				74EA7A222F87FE3B00294DCD /* SceneDelegate.swift */,
+				74EA7A232F87FE3B00294DCD /* ViewController.swift */,
+			);
+			path = 120GuildBank;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -65,6 +339,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 746A21792F8632620076A047 /* Build configuration list for PBXNativeTarget "120GuildBank" */;
 			buildPhases = (
+				CD2CB60462235409CD7D89B8 /* [CP] Check Pods Manifest.lock */,
 				746A21622F8632610076A047 /* Sources */,
 				746A21632F8632610076A047 /* Frameworks */,
 				746A21642F8632610076A047 /* Resources */,
@@ -73,12 +348,7 @@
 			);
 			dependencies = (
 			);
-			fileSystemSynchronizedGroups = (
-				746A21682F8632610076A047 /* 120GuildBank */,
-			);
 			name = 120GuildBank;
-			packageProductDependencies = (
-			);
 			productName = 120GuildBank;
 			productReference = 746A21662F8632610076A047 /* 120GuildBank.app */;
 			productType = "com.apple.product-type.application";
@@ -99,6 +369,7 @@
 				};
 			};
 			buildConfigurationList = 746A21612F8632610076A047 /* Build configuration list for PBXProject "120GuildBank" */;
+			compatibilityVersion = "Xcode 15.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -106,8 +377,6 @@
 				Base,
 			);
 			mainGroup = 746A215D2F8632610076A047;
-			minimizedProjectReferenceProxies = 1;
-			preferredProjectObjectVersion = 77;
 			productRefGroup = 746A21672F8632610076A047 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -122,24 +391,100 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74EA7A252F87FE3B00294DCD /* Assets.xcassets in Resources */,
+				74EA7A272F87FE3B00294DCD /* LaunchScreen.storyboard in Resources */,
+				74EA7A282F87FE3B00294DCD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		CD2CB60462235409CD7D89B8 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-120GuildBank-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		746A21622F8632610076A047 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74EA7A292F87FE3B00294DCD /* GuildModels.swift in Sources */,
+				74EA7A2A2F87FE3B00294DCD /* GoalCard.swift in Sources */,
+				74EA7A2B2F87FE3B00294DCD /* MemberCard.swift in Sources */,
+				74EA7A2C2F87FE3B00294DCD /* ResourceCard.swift in Sources */,
+				74EA7A2D2F87FE3B00294DCD /* StatCard.swift in Sources */,
+				74EA7A2E2F87FE3B00294DCD /* TransactionRow.swift in Sources */,
+				74EA7A2F2F87FE3B00294DCD /* GuildBankViewModel.swift in Sources */,
+				74EA7A302F87FE3B00294DCD /* DashboardView.swift in Sources */,
+				74EA7A312F87FE3B00294DCD /* AddGoalView.swift in Sources */,
+				74EA7A322F87FE3B00294DCD /* GoalsView.swift in Sources */,
+				74EA7A332F87FE3B00294DCD /* AddMemberView.swift in Sources */,
+				74EA7A342F87FE3B00294DCD /* MembersView.swift in Sources */,
+				74EA7A352F87FE3B00294DCD /* OnboardingView.swift in Sources */,
+				74EA7A362F87FE3B00294DCD /* AddResourceView.swift in Sources */,
+				74EA7A372F87FE3B00294DCD /* ResourcesView.swift in Sources */,
+				74EA7A382F87FE3B00294DCD /* SettingsView.swift in Sources */,
+				74EA7A392F87FE3B00294DCD /* StatsView.swift in Sources */,
+				74EA7A3A2F87FE3B00294DCD /* AddTransactionView.swift in Sources */,
+				74EA7A3B2F87FE3B00294DCD /* ContentView.swift in Sources */,
+				74EA7A3C2F87FE3B00294DCD /* UserDefaultsStore.swift in Sources */,
+				74EA7A3D2F87FE3B00294DCD /* Color+Guild.swift in Sources */,
+				74EA7A3E2F87FE3B00294DCD /* GuildDesignSystem.swift in Sources */,
+				74EA7A3F2F87FE3B00294DCD /* DateFormatters.swift in Sources */,
+				74EA7A402F87FE3B00294DCD /* ExternalLinks.swift in Sources */,
+				74EA7A412F87FE3B00294DCD /* AppDelegate.swift in Sources */,
+				74EA7A422F87FE3B00294DCD /* ContentView.swift in Sources */,
+				74EA7A432F87FE3B00294DCD /* SceneDelegate.swift in Sources */,
+				74EA7A442F87FE3B00294DCD /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXVariantGroup section */
+		74EA7A1F2F87FE3B00294DCD /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				74EA7A1E2F87FE3B00294DCD /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		74EA7A212F87FE3B00294DCD /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				74EA7A202F87FE3B00294DCD /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
 /* Begin XCBuildConfiguration section */
 		746A217A2F8632620076A047 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F082C07ABFD36DCABFF19B4A /* Pods-120GuildBank.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -147,30 +492,37 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = 120GuildBank/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "GuildBank Go";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mycompany.-20GuildBank";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ahm.g89ldb3nkg0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		746A217B2F8632620076A047 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = ECAA8C5469ED8F943CDFC0E2 /* Pods-120GuildBank.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -178,25 +530,31 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = 120GuildBank/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "GuildBank Go";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mycompany.-20GuildBank";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ahm.g89ldb3nkg0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

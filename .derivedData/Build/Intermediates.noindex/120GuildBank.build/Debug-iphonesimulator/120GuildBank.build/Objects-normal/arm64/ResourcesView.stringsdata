@@ -1,0 +1,72 @@
+{
+  "source": "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Presentation/SwiftUI/Views/Resources/ResourcesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Resources",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Restock",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Issue",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add resource",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Amount",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Apply",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 90
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,23 @@
+{
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Presentation/SwiftUI/Views/Goals/GoalsView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GoalsView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GoalsView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GoalsView.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GoalsView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GoalsView.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Presentation/SwiftUI/Views/Members/AddMemberView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/AddMemberView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/AddMemberView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/AddMemberView.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/AddMemberView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/AddMemberView.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Presentation/SwiftUI/Views/Members/MembersView.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/MembersView.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/MembersView.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/MembersView.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/MembersView.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/MembersView.swiftdeps"
+  }
+}

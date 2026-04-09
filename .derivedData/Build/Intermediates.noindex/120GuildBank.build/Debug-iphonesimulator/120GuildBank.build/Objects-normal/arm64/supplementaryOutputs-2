@@ -1,0 +1,23 @@
+{
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Presentation/SwiftUI/Components/ResourceCard.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/ResourceCard.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/ResourceCard.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/ResourceCard.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/ResourceCard.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/ResourceCard.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Presentation/SwiftUI/Components/StatCard.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/StatCard.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/StatCard.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/StatCard.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/StatCard.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/StatCard.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Presentation/SwiftUI/Components/TransactionRow.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/TransactionRow.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/TransactionRow.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/TransactionRow.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/TransactionRow.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/TransactionRow.swiftdeps"
+  }
+}

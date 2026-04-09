@@ -1,0 +1,23 @@
+{
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Domain/Models/GuildModels.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GuildModels.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GuildModels.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GuildModels.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GuildModels.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GuildModels.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Presentation/SwiftUI/Components/GoalCard.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GoalCard.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GoalCard.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GoalCard.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GoalCard.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/GoalCard.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Presentation/SwiftUI/Components/MemberCard.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/MemberCard.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/MemberCard.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/MemberCard.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/MemberCard.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/arm64/MemberCard.swiftdeps"
+  }
+}
