@@ -1,0 +1,23 @@
+{
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Supporting/Theme/GuildDesignSystem.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/x86_64/GuildDesignSystem.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/x86_64/GuildDesignSystem.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/x86_64/GuildDesignSystem.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/x86_64/GuildDesignSystem.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/x86_64/GuildDesignSystem.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Supporting/Utils/DateFormatters.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/x86_64/DateFormatters.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/x86_64/DateFormatters.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/x86_64/DateFormatters.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/x86_64/DateFormatters.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/x86_64/DateFormatters.swiftdeps"
+  },
+  "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/120GuildBank/Supporting/Utils/ExternalLinks.swift" : {
+    "const-values" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/x86_64/ExternalLinks.swiftconstvalues",
+    "dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/x86_64/ExternalLinks.d",
+    "diagnostics" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/x86_64/ExternalLinks.dia",
+    "object" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/x86_64/ExternalLinks.o",
+    "swift-dependencies" : "/Users/romanglavackij/Documents/XcodeProgramm/9 comand Ярослав/120GuildBank/.derivedData/Build/Intermediates.noindex/120GuildBank.build/Debug-iphonesimulator/120GuildBank.build/Objects-normal/x86_64/ExternalLinks.swiftdeps"
+  }
+}

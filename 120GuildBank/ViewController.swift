@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  120GuildBank
 //
-//  Created by Роман Главацкий on 08.04.2026.
-//
+
 
 import UIKit
 
